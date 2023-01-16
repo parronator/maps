@@ -1,0 +1,62 @@
+{
+    "offices": [
+        {
+            "address": "Plaza Pablo Ruiz Picasso, I\nMadrid 28020\nEspa\u00f1a",
+            "id": "madrid",
+            "image": "https://lh3.googleusercontent.com/x36CdPxkwxxctp0wvDYfTjgTzNgMiZV0xoKeLMwHzdccpJGYUA6a61fSeX1_Rt-lfofMjfUwAhFxd7DbjsE8_393plkTly-T5YkpCA",
+            "lat": 40.4505331,
+            "lng": -3.6931161,
+            "name": "Madrid",
+            "phone": "+34 91-748-6400",
+            "region": "europe"
+        }
+        
+    ],
+    "regions": [
+        {
+            "coords": {
+                "lat": 2.9660291,
+                "lng": 1.3271339
+            },
+            "id": "africa-middle-east",
+            "name": "\u00c1frica y Oriente Medio",
+            "zoom": 3.0
+        },
+        {
+            "coords": {
+                "lat": 0.0524811,
+                "lng": 127.6560787
+            },
+            "id": "asia-pacific",
+            "name": "Asia Pac\u00edfico",
+            "zoom": 3.0
+        },
+        {
+            "coords": {
+                "lat": 46.1352815,
+                "lng": 7.4033438
+            },
+            "id": "europe",
+            "name": "Europa",
+            "zoom": 4.0
+        },
+        {
+            "coords": {
+                "lat": -17.5554497,
+                "lng": -99.2316195
+            },
+            "id": "latin-america",
+            "name": "Latinoam\u00e9rica",
+            "zoom": 3.0
+        },
+        {
+            "coords": {
+                "lat": 45.7128252,
+                "lng": -97.1547448
+            },
+            "id": "north-america",
+            "name": "Norteam\u00e9rica",
+            "zoom": 4.0
+        }
+    ]
+}
